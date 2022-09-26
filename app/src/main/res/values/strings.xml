@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConstraintLayout</string>
+    <string name="base">base</string>
+    <string name="restringida">restringida</string>
 </resources>
