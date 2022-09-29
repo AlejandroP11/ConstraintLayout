@@ -77,4 +77,12 @@
         app:layout_constraintEnd_toStartOf="@+id/button3"
         app:srcCompat="@android:drawable/ic_delete" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="74dp"
+        android:layout_height="64dp"
+        android:text="@string/si"
+        app:layout_constraintStart_toStartOf="@+id/switch1"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
